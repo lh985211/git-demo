@@ -1,0 +1,9 @@
+# 忽略 data 目录（存放大型数据集）
+data/
+
+# 常见临时文件/目录
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
